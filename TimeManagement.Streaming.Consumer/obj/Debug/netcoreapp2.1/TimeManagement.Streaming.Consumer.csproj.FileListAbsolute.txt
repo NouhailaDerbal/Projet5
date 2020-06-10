@@ -1,0 +1,11 @@
+C:\Users\azerty\source\repos\TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.deps.json
+C:\Users\azerty\source\repos\TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.runtimeconfig.json
+C:\Users\azerty\source\repos\TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.runtimeconfig.dev.json
+C:\Users\azerty\source\repos\TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.dll
+C:\Users\azerty\source\repos\TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\azerty\source\repos\TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.AssemblyInfoInputs.cache
+C:\Users\azerty\source\repos\TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.AssemblyInfo.cs
+C:\Users\azerty\source\repos\TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.pdb
+C:\Users\azerty\source\repos\TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.dll
+C:\Users\azerty\source\repos\TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.pdb
+C:\Users\azerty\source\repos\TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeManagement.Streaming.Consumer", "TimeManagement.Streaming.Consumer\TimeManagement.Streaming.Consumer.csproj", "{A3F8C957-4C74-483B-83E4-EB9CDBC13F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeManagement.Streaming.Producer", "TimeManagement.Streaming.Producer\TimeManagement.Streaming.Producer.csproj", "{2E8245F9-5EF3-45A9-A6C2-9E912C308AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F8C957-4C74-483B-83E4-EB9CDBC13F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F8C957-4C74-483B-83E4-EB9CDBC13F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F8C957-4C74-483B-83E4-EB9CDBC13F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F8C957-4C74-483B-83E4-EB9CDBC13F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8245F9-5EF3-45A9-A6C2-9E912C308AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8245F9-5EF3-45A9-A6C2-9E912C308AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8245F9-5EF3-45A9-A6C2-9E912C308AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8245F9-5EF3-45A9-A6C2-9E912C308AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {221CFA08-1715-4164-A42E-92B777F3001A}
+	EndGlobalSection
+EndGlobal
